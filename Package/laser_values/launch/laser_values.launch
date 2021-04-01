@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="laser_values" type="laser_values" name="laser_values" output="screen">     
+
+    </node>
+</launch>
